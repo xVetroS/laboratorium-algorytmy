@@ -3,22 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="e0ffe388-9193-43ba-9277-0fbdb91d07fa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Zadanie 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie 3/out/production/Zadanie 3/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 3/out/production/Zadanie 3/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Zadanie 3/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 3/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 3/src/com/company/Silnia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 3/src/com/company/Silnia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Zadanie 4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie 4/out/production/Zadanie 4/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 4/out/production/Zadanie 4/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie 4/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 4/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Zadanie1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie1/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie1/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Zadanie2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie2/out/production/Zadanie2/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie2/out/production/Zadanie2/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Zadanie2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie2/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie2/src/com/company/NWD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie2/src/com/company/NWD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Zadanie5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie5/out/production/Zadanie5/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie5/out/production/Zadanie5/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie5/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie5/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Zadanie6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie6/out/production/Zadanie6/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie6/out/production/Zadanie6/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Zadanie6/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie6/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="754">
-              <caret line="51" column="69" lean-forward="true" selection-start-line="51" selection-start-column="69" selection-end-line="51" selection-end-column="91" />
+            <state relative-caret-position="255">
+              <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -62,9 +56,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -115,7 +109,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -149,8 +143,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="51" column="69" lean-forward="true" selection-start-line="51" selection-start-column="69" selection-end-line="51" selection-end-column="91" />
+        <state relative-caret-position="255">
+          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
         </state>
       </provider>
     </entry>

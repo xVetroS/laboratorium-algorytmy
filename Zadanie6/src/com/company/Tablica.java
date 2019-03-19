@@ -1,7 +1,7 @@
 package com.company;
 
 public class Tablica {
-    public static int maxValue(int tablica2[])
+    public static int maxValue(int tablica2[]) //metoda zwraca największą liczbę w tablicy.
     {
         int a=0;
         for(int i=0; i< tablica2.length; i++)
@@ -14,7 +14,7 @@ public class Tablica {
         return a;
     }
 
-    public static int minValue(int tablica3[])
+    public static int minValue(int tablica3[]) //metoda minimalna wartość.
     {
         int a=999999999;
         for(int i=0; i< tablica3.length; i++)
@@ -27,13 +27,13 @@ public class Tablica {
         return a;
     }
 
-    public static int rozrzutValue(int max, int min)
+    public static int rozrzutValue(int max, int min) //metoda rozrzutu.
     {
         int a = max-min;
         return a;
     }
 
-    public static int sumaValue(int tablica4[])
+    public static int sumaValue(int tablica4[]) // zwraca sumę elementów.
     {
         int suma = 0;
         for(int i=0; i< tablica4.length; i++)
@@ -43,7 +43,7 @@ public class Tablica {
         return suma;
     }
 
-    public static double srValue(int tablicasr[])
+    public static double srValue(int tablicasr[]) //metoda średniej wartości elementów.
     {
         int suma = 0;
         for(int i=0; i< tablicasr.length; i++)
@@ -53,7 +53,7 @@ public class Tablica {
         return suma / tablicasr.length;
     }
 
-    public static double variance(int tablicav[])
+    public static double variance(int tablicav[]) //metoda wariacji.
     {
         double sr = srValue(tablicav);
         double sigma, sumka = 0;
@@ -72,7 +72,7 @@ public class Tablica {
         return Math.sqrt(variance1);
     }
 
-    public static int elements(int tabe[])
+    public static int elements(int tabe[]) // metoda zwraca liczbe elementów, które są podzielne przez 3.
     {
         int zmienna = 0;
         for(int i=0; i<tabe.length; i++)
