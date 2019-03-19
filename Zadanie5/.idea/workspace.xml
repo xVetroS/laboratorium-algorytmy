@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="112084b1-42f7-4a7e-8c4b-ad4ed2c6840a" name="Default Changelist" comment="" />
+    <list default="true" id="112084b1-42f7-4a7e-8c4b-ad4ed2c6840a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Zadanie 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 3/out/production/Zadanie 3/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 3/out/production/Zadanie 3/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 3/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 3/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 4/out/production/Zadanie 4/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 4/out/production/Zadanie 4/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 4/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 4/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie2/out/production/Zadanie2/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie2/out/production/Zadanie2/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie2/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Zadanie5/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Zadanie5/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie7/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,13 +30,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="255">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -30,18 +49,19 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="464" />
-    <option name="y" value="75" />
+    <option name="x" value="170" />
+    <option name="y" value="244" />
     <option name="width" value="1401" />
     <option name="height" value="714" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -91,9 +111,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="464" y="75" width="1401" height="714" extended-state="0" />
+    <frame x="170" y="244" width="1401" height="714" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36390755" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37583894" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -124,8 +144,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="255">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>

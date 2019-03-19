@@ -37,7 +37,7 @@ public class Main {
             break;
             case 2: System.out.println("Teraz mozesz wprowadzic swoje liczby do tablicy");
                 for(int i=0; i<tablica.length; i++) {
-                    tablica[i] += wprowadz.nextInt();
+                    tablica[i] = wprowadz.nextInt();
                 }
                 System.out.println("Tablica zostala wypelniona wlasnymi elementami: ");
                 for(int j=0; j<tablica.length; j++)
@@ -55,7 +55,7 @@ public class Main {
         System.out.println("Rozrzut wartości: "+ Tablica.rozrzutValue(tab.maxValue(tablica),tab.minValue(tablica))+ ".");
         System.out.println("Suma elementów: "+ sumaValue(tablica)+ ".");
         System.out.println("Wariancja " + variance(tablica)+".");
-        System.out.println("Odchylenie standardowe:");
+        System.out.println("Odchylenie standardowe: " + standard(variance(tablica)));
         System.out.println("Ostatni element tablicy posiada wartość: "+tablica[rozmiar-1] + ".");
         System.out.println("Ile jest elementow podzielnych przez 3? Odpowiedź: " + elements(tablica));
 

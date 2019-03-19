@@ -16,8 +16,9 @@ public class Main {
         int rozwiazanie = 1;
         for(int i=0; i<b; i++)
         {
-            rozwiazanie *= a;
+            rozwiazanie*=a;
         }
+
         System.out.println("Liczba: "+ a + " uniesiona do: " + b + " jest rowna " + rozwiazanie + ".");
 
 
