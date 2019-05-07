@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b050146c-a157-4c13-bca8-d4231b010cfb" name="Default Changelist" comment="" />
+    <list default="true" id="112084b1-42f7-4a7e-8c4b-ad4ed2c6840a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Zadanie 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 3/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 3/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 3/src/com/company/Silnia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 3/src/com/company/Silnia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie 4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie 4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie1/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie1/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie2/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie2/src/com/company/NWD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie2/src/com/company/NWD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadanie6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadanie6/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="221">
+              <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -23,7 +34,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -33,8 +44,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="517" />
-    <option name="y" value="132" />
+    <option name="x" value="170" />
+    <option name="y" value="244" />
     <option name="width" value="1401" />
     <option name="height" value="714" />
   </component>
@@ -44,13 +55,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553633690911" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552781168802" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -67,7 +78,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Zadanie 7" />
+      <module name="Zadanie5" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -86,18 +97,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b050146c-a157-4c13-bca8-d4231b010cfb" name="Default Changelist" comment="" />
-      <created>1553631289813</created>
+      <changelist id="112084b1-42f7-4a7e-8c4b-ad4ed2c6840a" name="Default Changelist" comment="" />
+      <created>1552777328640</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1553631289813</updated>
+      <updated>1552777328640</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="517" y="132" width="1401" height="714" extended-state="0" />
+    <frame x="170" y="244" width="1401" height="714" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25354213" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38180462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -106,7 +117,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32874355" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20998278" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -114,7 +125,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32874355" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -128,8 +139,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="221">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
         </state>
       </provider>
     </entry>
