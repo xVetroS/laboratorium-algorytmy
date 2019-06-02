@@ -4,23 +4,42 @@ import java.util.Scanner;
 
 public class Main {
 
+    public static double dodawanie(double a, double b)
+    {
+        return a+b;
+    }
+    public static double odejmowanie(double a, double b)
+    {
+        return a-b;
+    }
+    public static double mnozenie(double a, double b)
+    {
+        return a*b;
+    }
+    public static double dzielenie(double a, double b)
+    {
+        return a/b;
+    }
+
     public static void main(String[] args) {
         int a, b;
-	System.out.println("Program liczacy n-ta potege liczby a: ");
         Scanner wprowadz = new Scanner(System.in);
-        System.out.println("Wprowadz a: ");
+        System.out.println("Podaj a: ");
         a = wprowadz.nextInt();
-        System.out.println("Wprowadz b: ");
+        System.out.println("Podaj b: ");
         b = wprowadz.nextInt();
-        System.out.println("Wprowadzone wartosci to: " + a + " oraz " + b + ".");
-        int rozwiazanie = 1;
-        for(int i=0; i<b; i++)
+
+        System.out.println("Wynik dodawania: " + Main.dodawanie(a,b));
+        System.out.println("Wynik odejmowania: " +Main.odejmowanie(a,b));
+        System.out.println("Wynik mnożenia: " +Main.mnozenie(a,b));
+        if(b!=0)
         {
-            rozwiazanie*=a;
+            System.out.println("Wynik dzielenia: " +Main.dzielenie(a,b));
         }
-
-        System.out.println("Liczba: "+ a + " uniesiona do: " + b + " jest rowna " + rozwiazanie + ".");
-
+        else
+        {
+            System.out.println("Nie da sie dzielić przez zero!");
+        }
 
     }
 }
